@@ -1,0 +1,30 @@
+.main{
+	width: 1000px;
+	position: relative;
+    margin: auto;
+}
+.link{
+	position: relative;
+    display: inline-block;
+    padding: 0;
+}
+.link > li {
+	float: left;
+    display: block;
+    margin-right: 20px;
+}
+.sosyal_medya > li{
+	float: left;
+    display: block;
+    margin-right: 30px;
+}
+h1{
+	color: #570765;
+}
+
+h2{
+	color: #570765;
+}
+h3{
+	color: #570765;
+}
